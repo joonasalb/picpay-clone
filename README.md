@@ -1,14 +1,12 @@
 # PicPay Clone
 
-Este é o repositório com o código fonte desenvolvido durante as aulas disponíveis no [YouTube](https://youtu.be/0CraBZHejKI) onde criamos um clone do aplicativo PicPay utilizando React Native, Styled Components e React Navigation 5.
-
 Este projeto utiliza o [Expo](https://expo.io/).
 
 ## Instalação
 
 Você precisará ter apenas o [NodeJS](https://nodejs.org) instalado na sua máquina, e após isso, clonar este repositório:
 ```sh
-  $ git clone https://github.com/maateusilva/picpay-clone.git
+  $ git clone https://github.com/joonasalb/picpay-clone.git
 ```
 
 Depois disso acesse a pasta da aula que você deseja e instale as dependências executando o seguinte comando:
